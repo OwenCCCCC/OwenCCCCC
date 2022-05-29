@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OwenCCCCC
 - 👀 I’m interested in IC designing and embedded software.
-- 🌱 I’m currently learning Verilog HDL.
+- 🌱 I’m currently learning Verilog HDL, C# and MATLAB.
 - <!---💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...--->
 
