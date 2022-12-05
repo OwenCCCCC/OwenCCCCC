@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OwenCCCCC
 - 👀 I’m interested in Fiber Optics and Computer Vision.
 - 🌱 I’m currently learning Verilog HDL, C#, Python and MATLAB.
-- <!---💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...--->
+ <!---💞️ I’m looking to collaborate on 
+ 📫 How to reach me ...--->
 
 <!---
 OwenCCCCC/OwenCCCCC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
