@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OwenCCCCC
-- 👀 I’m interested in Fiber Optics and Computer Vision.
+- 👀 I’m interested in Fiber Optics, EDA, SOC, IC and AI.
 - 🌱 I’m currently learning Verilog HDL, C#, Python and MATLAB.
  <!---💞️ I’m looking to collaborate on 
  📫 How to reach me ...--->
