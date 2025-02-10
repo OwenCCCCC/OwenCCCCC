@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OwenCCCCC
-- 👀 I’m interested in Fiber Optics, EDA, SOC, IC and AI.
+- 👀 I’m interested in Metamaterials, Communication and Artificial Intelligence.
 - 🌱 I’m currently learning Verilog HDL, C#, Python and MATLAB.
-- 💞️ I’m looking to collaborate on fiber optics DSP algorithms and data mining algorithm. 
+- 💞️ I’m looking to collaborate on DSP algorithm and data mining algorithm. 
 - 📫 How to reach me : Github @OwenCCCCC
 
 <!---
